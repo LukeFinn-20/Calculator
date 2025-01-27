@@ -1,4 +1,4 @@
-Calculator Application
+* Calculator Application
 Overview
 This is a simple console-based calculator program written in C#. The application allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division. Users can input multiple numbers and choose the desired operation from the provided menu.
 
